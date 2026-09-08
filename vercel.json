@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://convitecasamento-2111--819a865716.replit.app/$1"
+    }
+  ]
+}
